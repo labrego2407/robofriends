@@ -50,7 +50,7 @@ class App extends Component {
                     </Scroll>
                 </div>
             )}
-        }
+    }
 }
 
 export default App;
